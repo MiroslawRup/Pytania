@@ -1,0 +1,24 @@
+A. projekt 4: https://github.com/MiroslawRup/Golden.git
+B. projekt Pytania: https://github.com/MiroslawRup/Pytania.git
+
+
+1. jak prawidłowo podłączać czcionki(A)? 
+
+2. w zad. 4.6 SERVICES jak zrobić odstępy pomiędzy divami jeżeli używa się bootstrap(A)?
+
+3. jakie powinny być ustawienia wstępne CSS?(A)
+
+4. dlaczego czcionka size 75 przy marginesie 0 i paddingu 0 zajmuje 92px IT'S NICE TO MEET YOU(A)?
+
+5. jaki powienien być link ikon font awesome związany z wersją(A)?
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+
+6. W jakim celu w bootstrapie jest margines ujemny na row(A)?
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+7. jak zrobić dive aby zajął całą dostępną szerokość rodzica(B)?
